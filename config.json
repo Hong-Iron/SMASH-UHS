@@ -20,5 +20,38 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "본관동": {
+      "style": "stone",
+      "wall": "#d8d6d2",
+      "glass": "#2e7d7a",
+      "frame": "#c6cac7"
+    },
+    "도서관": {
+      "style": "stone",
+      "wall": "#dedcd7",
+      "glass": "#2b7aa0",
+      "frame": "#cfcfcb"
+    },
+    "예술관동": {
+      "style": "glass",
+      "wall": "#dfe1e0",
+      "glass": "#1f5a70",
+      "frame": "#c4cbce"
+    },
+    "실습동": {
+      "style": "stone",
+      "wall": "#d3d3cf",
+      "glass": "#3a6c96",
+      "frame": "#b7baba"
+    },
+    "학생회관": {
+      "style": "glass",
+      "wall": "#d8d6d2",
+      "glass": "#3e6f82",
+      "frame": "#aeb6ba"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
